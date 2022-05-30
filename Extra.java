@@ -1,4 +1,4 @@
-package Paint2;
+package Paint;
 import java.awt.*;
 
 class Extra1 extends Figure {
